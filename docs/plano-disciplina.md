@@ -28,17 +28,17 @@ Camadas da arquitetura TCP/IP: camada de Transporte e camada Aplicação.
 
 2. Camada de transporte: serviços oferecidos; protocolos TCP e UDP
 
-   2.1. Multiplexação de dados
-   2.2. Transporte não orientado à conexão
-   2.3. Transporte orientado à conexão
-   2.4. Controle de congestionamento
+   1. Multiplexação de dados
+   2. Transporte não orientado à conexão
+   3. Transporte orientado à conexão
+   4. Controle de congestionamento
 
 3. Camada de aplicação: aspectos gerais e estudos dos modelos de interação de aplicações TCP/IP
 
-   3.1. HTTP
-   3.2. DNS
-   3.3. FTP
-   3.4. SMTP, POP3 e IMAP
+   1. HTTP
+   2. DNS
+   3. FTP
+   4. SMTP, POP3 e IMAP
 
 #### Procedimentos Metodológicos
 
