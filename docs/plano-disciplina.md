@@ -1,7 +1,3 @@
----
-icon: lucide/graduation-cap
----
-
 # Plano da disciplina
 
 - Curso: Superior de Tecnologia em Sistemas para Internet no formato de oferta EaD

@@ -1,7 +1,3 @@
----
-icon: lucide/calendar-days
----
-
 # Cronograma
 
 | Atividade | Início | Fim |

@@ -15,7 +15,7 @@ release = '2026.2'
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 extensions = [
-    'myst_parser'
+    'myst_parser',
 ]
 
 templates_path = ['_templates']
@@ -28,3 +28,8 @@ language = 'pt_BR'
 
 html_theme = 'furo'
 html_static_path = ['_static']
+html_theme_options = {
+    "source_repository": "https://github.com/jurandysoares/doce-apr/",
+    "source_branch": "main",
+    "source_directory": "docs/",    
+}
