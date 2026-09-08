@@ -1,15 +1,11 @@
 # Cronograma
 
-| Atividade | Início | Fim |
-| -------------- | ------- | --- |
-| Unidade 1 | dd/mm/aaaa | dd/mm/aaaa |
-| Unidade 2 | dd/mm/aaaa | dd/mm/aaaa |
-| Unidade 3 | dd/mm/aaaa | dd/mm/aaaa |
-| Unidade 4 | dd/mm/aaaa | dd/mm/aaaa |
-| Unidade 5 | dd/mm/aaaa | dd/mm/aaaa |
-| Unidade 6 | dd/mm/aaaa | dd/mm/aaaa |
-| Unidade 7 | dd/mm/aaaa | dd/mm/aaaa |
-| Unidade 8 | dd/mm/aaaa | dd/mm/aaaa |
-| Prova Presencial | dd/mm/aaaa | dd/mm/aaaa |
-| Prova Reposição | dd/mm/aaaa | dd/mm/aaaa |
-| Prova Recuperação | dd/mm/aaaa | dd/mm/aaaa |
+| Atividade         | Início     | Fim        |
+| ----------------- | ---------- | ---------- |
+| Unidade 1         | 14/09/2026 | 27/09/2026 |
+| Unidade 2         | 28/09/2026 | 13/10/2026 |
+| Unidade 3         | 14/10/2026 | 28/10/2026 |
+| Unidade 4         | 29/10/2026 | 11/11/2026 |
+| Prova Presencial  | 24/11/2026 | 24/11/2026 |
+| Prova Reposição   | 01/12/2026 | 01/12/2026 |
+| Prova Recuperação | 15/12/2026 | 15/12/2026 |
